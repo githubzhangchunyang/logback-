@@ -1,5 +1,7 @@
 # 数据结构
-转自-https://github.com/Jack-Lee-Hiter/AlgorithmsByPython/edit/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md
+
+转自-[Jack-Lee-Hiter/AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython/edit/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
+
 ## 一些概念
 > 数据结构就是研究数据的**逻辑结构**和**物理结构**以及它们之间**相互关系**，并对这种结构定义相应的运算，而且确保经过这些运算后所得到的新结构仍然是原来的结构类型。
 
